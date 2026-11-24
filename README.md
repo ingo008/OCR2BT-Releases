@@ -1,6 +1,8 @@
 # OCR2BT
 
-![OCR2BT-Logo](bilder/logo.png)
+<p align="center">
+  <img src="bilder/logo.png" alt="OCR2BT App-Logo" width="150">
+</p>
 
 **Fotografieren statt abtippen.**
 
@@ -13,19 +15,14 @@ OCR2BT ist eine Android-App, mit der sich gedruckte Nummern oder Kennzeichnungen
 - **Übertragung:** Erkannten Text überprüfen und als Bluetooth-HID-Tastatureingabe senden.
 - **Abschlusszeichen:** Wahlweise **Enter** oder **Tab** nach dem Text übertragen.
 
-## Einblicke
+## Einblicke in die App
 
-**Startseite**
+Die folgenden Bilder zeigen die echte Android-Oberfläche von OCR2BT. Zum Vergrößern einfach auf einen Screenshot klicken.
 
-![Startseite](bilder/startseite.png)
-
-**OCR-Vorlagen**
-
-![OCR-Vorlagen](bilder/ocr-vorlagen.png)
-
-**Vorlage bearbeiten**
-
-![Vorlage bearbeiten](bilder/vorlage-bearbeiten.png)
+| Startseite | OCR-Vorlagen | Vorlage bearbeiten |
+|:---:|:---:|:---:|
+| <a href="bilder/startseite.png"><img src="bilder/startseite.png" alt="OCR2BT Startseite mit Vorlagenauswahl, Scan- und Senden-Funktion" width="240"></a> | <a href="bilder/ocr-vorlagen.png"><img src="bilder/ocr-vorlagen.png" alt="Übersicht und Verwaltung der OCR-Vorlagen" width="240"></a> | <a href="bilder/vorlage-bearbeiten.png"><img src="bilder/vorlage-bearbeiten.png" alt="Einstellungen einer OCR-Vorlage mit Suchtext und Übertragung" width="240"></a> |
+| Vorlage auswählen, fotografieren und Text senden | Vorlagen verwalten | Suchtext und Übertragungsregeln festlegen |
 
 ## Ablauf
 
